@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I’m @ujjwal313 or Ujjwal Kumar
+
+- 👀 I’m incredibly interested in building web applications with great user experiences and I'm aiming to have a career in Frontend Development
+- 🌱 I’m currently learning React.js
+- 📫 Please reach me at ujjwalkr80@gmail.com
 
 <!--
 **ujjwal313/ujjwal313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
