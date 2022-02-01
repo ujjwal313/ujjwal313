@@ -14,10 +14,10 @@
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://www.instagram.com/ujjwalkr80/"><img src="https://img.icons8.com/fluency/96/000000/instagram-new.png"></a>
+        <a href="https://www.instagram.com/ujjwalkr80/" target="_blank"><img src="https://img.icons8.com/fluency/96/000000/instagram-new.png"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/ujjwal-kumar-3101"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"></a>
+        <a href="https://www.linkedin.com/in/ujjwal-kumar-3101" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"></a>
     </td>
     <td align='center' width="60">
         <a href="mailto:ujjwalkr80@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/mail.png"></a>
