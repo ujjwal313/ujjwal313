@@ -38,7 +38,7 @@
 <h2><i>Activity Graph</i></h2>
 </br>
 
-[![Ujjwal's github activity graph](https://activity-graph.herokuapp.com/graph?username=ujjwal313&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ujjwal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjwal313&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2><i>Language and Tools</i></h2>
 </br>
@@ -48,7 +48,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" height="auto" width="60px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" height="auto" width="60px">
  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="auto" width="60px">
- <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" height="auto" width="60">
+ <img src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-webui/public/logos/vscode.svg" height="auto" width="60">
  
  
 </br>
